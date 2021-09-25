@@ -2,8 +2,8 @@
 
 ### Estudando:
 - 📗 C#
-- 📙 HTML5
-- 📘 CSS3
+- 📙 HTML
+- 📘 CSS
 - 📒 JavaScripit
 
 <div align="center">
