@@ -1,7 +1,7 @@
 ## Olá ! 👋 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau
 
-### Estudando:
+### 📚Estudando:
 - 📗 C#
 - 📙 HTML
 - 📘 CSS
