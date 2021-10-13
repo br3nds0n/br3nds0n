@@ -1,5 +1,6 @@
 ## Olá ! 👋 
-> 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau
+> 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau <br>
+> <img align="center" alt="Full-Stack" height="20" width="20" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e05268588c99ee377c04bcf_logo-fsl-dark-solid.svg"> **Padawan Front-end**<img align="center" alt="Full-Stack" height="20" width="20" src="https://www.iconninja.com/files/289/654/514/luke%E2%80%99s-st-lightsaber-icon.png">
 
 ### 📚Estudando:
 - 📗 C#
