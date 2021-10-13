@@ -1,6 +1,6 @@
 ## Olá ! 👋 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Uninassau <br>
-> <img align="center" alt="front-end" height="17" width="17" src="https://cdn.discordapp.com/attachments/897931433841160192/897966191497330728/21212.png"> **Padawan Front-end** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png">
+> <img align="center" alt="front-end" height="25" width="25" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-37-512.png"> **Padawan Front-end** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png">
 
 ### 📚Estudando:
 - 📗 C#
