@@ -33,8 +33,7 @@
 ## Redes Sociais
 
 [gmail]: https//mailto:brendson.net@gmail.com
-[linkedin]: https://www.linkedin.com/in/pedro-henrique-de-menezes-34a17a211/
-[facebook]: https://www.facebook.com/pedrohenrique.menezes.754/
+[linkedin]: https://www.linkedin.com/in/brendson-victor-da-silva-campos-05a47a208/
 [instagram]: https://instagram.com/breendson/
 
 <p align="left">
