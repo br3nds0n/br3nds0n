@@ -13,6 +13,7 @@
 
 ## 📊 Github stats
 - 💻 GitHub Profile Stats
+
 <div align="center">
 
   <a href="https://github.com/br3ndson">
@@ -21,7 +22,7 @@
    
 </div>
   
-  <h5> <b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h5>
+  <h5><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h5>
  
   
 ## 🚀 Skills 
