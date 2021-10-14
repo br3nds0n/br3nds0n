@@ -21,7 +21,7 @@
    
 </div>
   
-  <h5> <b>Nota:</b> As principais linguagens, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h5>
+  <h5> <b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h5>
  
   
 ## 🚀 Skills 
