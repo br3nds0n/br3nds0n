@@ -4,7 +4,7 @@
 > <img align="center" alt="front-end" height="27" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897977434698305586/pngegg_1.png"> **Systems Analysis and Development Student** | Uninassau <br>
 > <img align="center" alt="front-end" height="35" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897969961459404800/toppng.com-yoda-cute-458x458.png"> **Padawan Front-end** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png">
 
-<img src="https://raw.githubusercontent.com/br3nds0n/iuricode/e9c1b1ae015e0d1156a1dd433022850afa2fb19d/pc.svg" min-width="230px" max-width="230px" width="170px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/br3nds0n/iuricode/e9c1b1ae015e0d1156a1dd433022850afa2fb19d/pc.svg" min-width="230px" max-width="230px" width="165px" align="right" alt="Computador">
 
 <details>
 <summary> 📚Studying </summary> <br>
@@ -20,8 +20,8 @@
 <div align="center">
 
   <a href="https://github.com/br3ndson">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>   
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>   
    
 </div>
   
