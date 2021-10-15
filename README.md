@@ -9,7 +9,7 @@
 
 
 <details>
-<summary> 📚Studying </summary> <br>
+<summary> 📚Studying now </summary> <br>
 - 📗 C# <br>
 - 📙 HTML <br>
 - 📘 CSS <br>
