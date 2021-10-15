@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="150px" align="right" alt="Computador">
 
 <details>
-<summary> 📚Studying</summary> <br>
+<summary> 📚Studying </summary> <br>
 - 📗 C# <br>
 - 📙 HTML <br>
 - 📘 CSS <br>
@@ -20,8 +20,8 @@
 <div align="center">
 
   <a href="https://github.com/br3ndson">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>   
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>   
    
 </div>
   
