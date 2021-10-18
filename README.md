@@ -61,7 +61,7 @@
  <p/> 
  
  
-## 📩 Social networks
+## 📫 How to reach me
 
 [gmail]: https//mailto:brendson.net@gmail.com
 [linkedin]: https://www.linkedin.com/in/brendson-victor-da-silva-campos-05a47a208/
