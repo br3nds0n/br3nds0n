@@ -43,16 +43,23 @@
  
  <br/>
  
-  > 🛠 My tools
- 
+ >🛠 My tools
+
  <p>
-  
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">
+ </p>
+ 
+ <br/>
+ 
+  > <img class="img" align="center" alt="framework" height="23" width="23" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks</p></blockquote> 
+ 
+ <p>
   
- <p/>
+ <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">
+ <p/> 
+ 
  
 ## 📩 Social networks
 
@@ -71,3 +78,4 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gmail]" /></a>
   
 </p> 
+ 
