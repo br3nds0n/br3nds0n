@@ -32,7 +32,7 @@
   
 ## 🚀 Skills 
  
->👨🏽‍💻 languages 
+> <img class="img" align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899805228793208852/programador.png"> languages 
 
  <p>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -53,7 +53,7 @@
  
  <br/>
  
-  > <img class="img" align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks</p></blockquote> 
+  > <img class="img" align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
  
  <p>
   
