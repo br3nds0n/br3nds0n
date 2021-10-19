@@ -1,7 +1,7 @@
 
  ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-> <img align="center" alt="front-end" height="32" width="35" src="https://cdn.discordapp.com/attachments/696749484012601344/899834917662363678/oculos.png"> **Systems Analysis and Development Student** | Uninassau <br>
+> <img align="center" alt="front-end" height="28" width="35" src="https://cdn.discordapp.com/attachments/696749484012601344/899834917662363678/oculos.png"> **Systems Analysis and Development Student** | Uninassau <br>
 > <img align="center" alt="front-end" height="35" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897969961459404800/toppng.com-yoda-cute-458x458.png"> **Padawan Front-end** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png">
 
 
