@@ -16,7 +16,7 @@
 </details>
 
 ## 📊 Github stats
-- 💻 GitHub Profile Stats
+- <img align="center" alt="rocket" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
 
 <div align="center">
 
