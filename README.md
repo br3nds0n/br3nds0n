@@ -4,7 +4,7 @@
 > <img align="center" alt="front-end" height="28" width="35" src="https://cdn.discordapp.com/attachments/696749484012601344/899834917662363678/oculos.png"> **Systems Analysis and Development Student** | Uninassau <br>
 > <img align="center" alt="front-end" height="35" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897969961459404800/toppng.com-yoda-cute-458x458.png"> **Padawan Front-end** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png">
 
-<img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png" min-width="500px" max-width="500px" width="180px" align="right" alt="Computador">
+<img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png" min-width="500px" max-width="500px" width="175x" align="right" alt="Computador">
 
 
 <details>
