@@ -7,14 +7,6 @@
 <img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png" min-width="500px" max-width="500px" width="175" align="right" alt="Computador">
 
 
-<details>
-<summary> 📚Studying now </summary> <br>
-- 📗 C# <br>
-- 📙 HTML <br>
-- 📘 CSS <br>
-- 📒 JavaScripit 
-</details>
-
 ## 📊 Github Stats
 - <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
 
@@ -28,7 +20,8 @@
   
   <h4> <b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
  
-  
+
+ 
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
  
 > <img align="center" alt="languages" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899805228793208852/programador.png"> languages 
@@ -42,6 +35,8 @@
  
  <br/>
  
+ 
+ 
  > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
 
  <p>
@@ -53,9 +48,14 @@
  
  <br/>
  
+ 
+ 
+ 
   > <img align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
  
  <p>
+ 
+  
   
  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">
  <p/> 
