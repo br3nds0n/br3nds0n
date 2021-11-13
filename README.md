@@ -1,4 +1,5 @@
 <!-- Welcome -->
+
  ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 > <img align="center" alt="front-end" height="30" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897974587021750302/pngegg.png"> **Systems Analysis and Development Student** | Uninassau <br>
@@ -18,7 +19,7 @@
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>      
 </div>
   
-  <h4> <b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
+  <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
  
 
  <!--    skills    -->
