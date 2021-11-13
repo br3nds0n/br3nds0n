@@ -31,11 +31,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
  </p>
  
  <br/>
- 
- 
+
  
  > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
 
@@ -47,7 +47,6 @@
  </p>
  
  <br/>
- 
  
  
  
