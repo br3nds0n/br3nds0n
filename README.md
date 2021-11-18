@@ -71,6 +71,6 @@
    <a href="https://www.linkedin.com/in/brendson" alt="Linkedin">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                     
   <a href="mailto:brendson.net@gmail.com" alt="Gmail">
-  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
+  <img height="33" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p> 
  
