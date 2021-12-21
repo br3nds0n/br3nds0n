@@ -22,7 +22,7 @@
  
  - My Commits
 
- <p align="center"> <img height="180em" src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+ <p align="center"> <img height="160em" src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
  <!--    🚀skills    -->
  
