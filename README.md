@@ -20,6 +20,9 @@
   
   <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
  
+ - My Commits
+ 
+ ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
 
  <!--    🚀skills    -->
  
@@ -59,12 +62,7 @@
  
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> 
  -->
- 
- <!-- 🐍Snake -->
-
-  ## My commits
- 
-   ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
+  
  
  <!--    📫to me    -->
 
