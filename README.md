@@ -21,9 +21,9 @@
   <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
  
  - My Commits
- 
- ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
 
+ <p align="center"> <img height="180em" src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+ 
  <!--    🚀skills    -->
  
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
