@@ -60,8 +60,14 @@
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> 
  -->
  
- <!--    📫to me    -->
+ <!-- 🐍Snake -->
+
+  ## My commits
  
+   ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
+ 
+ <!--    📫to me    -->
+
 ## 📫 How to reach me
 
 <p align="left">
@@ -72,8 +78,8 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                     
   <a href="mailto:brendson.net@gmail.com" alt="Gmail">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
-</p> 
+</p>
  
-   ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
+
 
  
