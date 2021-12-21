@@ -49,15 +49,14 @@
   <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
  </p>
  
-<!--   <br/>
+<!-- <br/>
  
  
     🌀frameworks    
  
   > <img align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
  
- <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> 
- -->
+ <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
   
  
 <!--    📫to me    -->
