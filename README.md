@@ -1,6 +1,6 @@
 <!--    👋🏽Welcome    -->
 
- ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
 
 > <img align="center" alt="front-end" height="30" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897974587021750302/pngegg.png"> **Systems Analysis and Development Student** | Uninassau <br>
 > <img align="center" alt="front-end" height="35" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897969961459404800/toppng.com-yoda-cute-458x458.png"> **Padawan JavaScript and NodeJs** <img align="center" alt="sabre" height="20" width="20" src="https://i.imgur.com/04PvTmR.png"> | <code>#dreambigger🚀🧡</code>
@@ -20,9 +20,7 @@
   
   <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
  
-
- 
- <!--    🚀skills    -->
+<!--    🚀skills    -->
  
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
  
@@ -62,7 +60,7 @@
  -->
   
  
- <!--    📫to me    -->
+<!--    📫to me    -->
 
 ## 📫 How to reach me
 
@@ -76,5 +74,7 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
 
+ <!-- 🐍snake -->
+ 
  <p align="center"> <img height="200em" src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
