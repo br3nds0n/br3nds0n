@@ -75,9 +75,6 @@
   <a href="mailto:brendson.net@gmail.com" alt="Gmail">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
- 
- > My Commits
 
  <p align="center"> <img height="200em" src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
-
  
