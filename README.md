@@ -74,3 +74,6 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p> 
  
+   ![Snake animation](https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg)
+
+ 
