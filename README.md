@@ -1,8 +1,9 @@
 <!--    👋🏽Welcome    -->
 
 
+
  ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
-<img height="230" width="800" src="https://user-images.githubusercontent.com/82064724/147617719-d3dbc9e8-5520-47d1-ac24-9ff25122dc58.gif">
+<img height="230" width="1200" src="https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif">
 
 
 > <img align="center" alt="front-end" height="30" width="35" src="https://cdn.discordapp.com/attachments/897931433841160192/897974587021750302/pngegg.png"> **Systems Analysis and Development Student** | Uninassau <br>
