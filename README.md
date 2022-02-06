@@ -6,10 +6,10 @@
 <img height="150" width="1200" src="https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif">
 
 
-- 👨🏽‍💻 Systems Analysis and Development Student | Uninassau
+- 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
 - 💚 Padawan Node.js!
-- 💻 Node.js Development Intern | CompassoUol 
-- 💭 thought: `#dreambigger🚀🧡`
+- 💻 Node.js Development Intern | **CompassoUol** 
+- 💭 **`#dreambigger🚀🧡`**
 
 
 <img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png"  width="127" align="right" alt="yoda">
