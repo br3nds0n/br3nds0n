@@ -7,7 +7,7 @@
 
 
 - 👨🏽‍💻 Systems Analysis and Development Student | Uninassau
-- 💚 Studying Node.js!
+- 💚 Padawan Node.js!
 - 💻 Node.js Development Intern | CompassoUol 
 - 💭 thought: `#dreambigger🚀🧡`
 
