@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
 - 💚 Padawan Node.js!
-- 💻 Node.js Development Intern | **CompassoUol** 
+- 💻 Node.js Development Intern | **CompassoUol** <img width="15"  height="15" src="https://user-images.githubusercontent.com/56005421/152708030-773b2973-5f36-4a5e-98e6-d3819f13c098.png">
 - 💭 **`#dreambigger🚀🧡`**
 
 
