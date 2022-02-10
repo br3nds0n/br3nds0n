@@ -3,7 +3,7 @@
 
 
  ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
-<img height="200" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
+<img height="220" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
 
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
