@@ -12,9 +12,9 @@
 - 💭 **`#dreambigger🚀🧡`**
 
 
-<img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png"  width="127" align="right" alt="yoda">
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="127" align="right" alt="yoda">
 
-<!--    📊stats    -->
+<!--    📊stats  https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png  -->
 
 ## 📊 Github Stats
 - <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
