@@ -1,7 +1,7 @@
 <!--    👋🏽Welcome  https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif  -->
 
 
- <img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png"  width="150" align="left" alt="yoda">
+ <img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png"  width="100" align="left" alt="yoda">
  <h2> Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> </h2>
 <img height="220" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
