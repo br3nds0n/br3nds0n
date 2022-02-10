@@ -12,7 +12,7 @@
 - 💭 **`#dreambigger🚀🧡`**
 
 
-<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="yoda">
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="70" align="right" alt="yoda">
 
 <!--    📊stats  https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png  -->
 
