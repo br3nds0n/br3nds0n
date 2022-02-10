@@ -82,6 +82,7 @@
  
  <!-- 🐍snake height="200em" -->
  
- ## ✨ Contributions in the last year
+ ## ✨ Contributions in the last year 
  
- <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+ <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> <img src="https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png"  width="110" align="right" alt="yoda"> </p>
+ 
