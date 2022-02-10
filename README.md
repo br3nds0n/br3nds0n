@@ -12,7 +12,7 @@
 - 💭 **`#dreambigger🚀🧡`**
 
 
-<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="70" align="right" alt="yoda">
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="yoda">
 
 <!--    📊stats  https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png  -->
 
@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/br3nds0n">
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>      
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>      
 </div>
   
   <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
