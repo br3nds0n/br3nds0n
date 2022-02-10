@@ -3,7 +3,7 @@
 
 
  ## Welcome to Brendson Victor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
-<img height="150" width="1200" src="https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif">
+<img height="150" width="850" src="https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif">
 
 
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
