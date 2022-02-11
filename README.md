@@ -85,3 +85,6 @@
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
+  <img src="https://i.pinimg.com/originals/93/00/07/93000765d3011c40045466e29cc9c470.gif"  width="90" align="left" alt="yoda">
+ 
+ <img src="https://i.pinimg.com/originals/93/00/07/93000765d3011c40045466e29cc9c470.gif"  width="90" align="right" alt="yoda">
