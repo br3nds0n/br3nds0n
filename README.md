@@ -64,7 +64,7 @@
  
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
   
- 
+  <img src="https://66.media.tumblr.com/tumblr_m9wpi1Ye9H1rfjowdo1_500.gif"  width="120" align="right" alt="yoda">
 <!--    📫to me    -->
 
 ## 📫 How to reach me
@@ -85,6 +85,4 @@
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
-  <img src="https://i.pinimg.com/originals/93/00/07/93000765d3011c40045466e29cc9c470.gif"  width="90" align="left" alt="yoda">
- 
- <img src="https://i.pinimg.com/originals/93/00/07/93000765d3011c40045466e29cc9c470.gif"  width="90" align="right" alt="yoda">
+
