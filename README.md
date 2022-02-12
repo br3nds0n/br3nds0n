@@ -64,7 +64,9 @@
  
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
   
-  <img src="https://66.media.tumblr.com/tumblr_m9wpi1Ye9H1rfjowdo1_500.gif"  width="120" align="right" alt="yoda">
+  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="200" align="right" alt="yoda">
+ 
+
 <!--    📫to me    -->
 
 ## 📫 How to reach me
