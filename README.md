@@ -1,8 +1,7 @@
 <!--    👋🏽Welcome  https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif  -->
 
- <h2> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> </h2>
+ <h2> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="30"> </h2>
 <img height="220" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
-
 
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau** <img width="15"  height="15" src="https://user-images.githubusercontent.com/82064724/153507508-d35b50b7-7d7f-4355-a575-cdb1ed9ce6ff.png"> 
 - 💻 Node.js Development Intern | **CompassoUol** <img width="15"  height="15" src="https://user-images.githubusercontent.com/56005421/152708030-773b2973-5f36-4a5e-98e6-d3819f13c098.png">
