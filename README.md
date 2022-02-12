@@ -24,8 +24,7 @@
 </div>
   
  
-#### ⚠ Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
- 
+#### ⚠ *Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.*
  
 <!--    🚀skills    -->
  
