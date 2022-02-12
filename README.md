@@ -23,7 +23,9 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>      
 </div>
   
-  <h4><b>Nota:</b> Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
+ 
+#### ⚠ Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.</h4>
+ 
  
 <!--    🚀skills    -->
  
