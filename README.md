@@ -1,4 +1,4 @@
-<!--    👋🏽Welcome  https://user-images.githubusercontent.com/82064724/147617882-0ae61fab-2b1e-4237-a61a-9a89bba4ced4.gif  -->
+<!--    👋🏽Welcome    -->
 
  <h2> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="30"> </h2>
 <img height="220" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
@@ -11,7 +11,7 @@
 
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="yoda">
 
-<!--    📊stats  https://cdn.discordapp.com/attachments/696749484012601344/899839913615306773/babyyoda_icon-removebg.png  -->
+<!--   📊stats   -->
 
 ## 📊 Github Stats
 - <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
