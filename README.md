@@ -25,6 +25,7 @@
  
 #### ⚠ *Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.*
  
+ 
 <!--    🚀skills    -->
  
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
@@ -86,6 +87,10 @@
  ## ✨ Contributions in the last year 
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+
+  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="80" align="left" alt="yoda">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark)](https://github.com/br3nds0n/compass-lisa)
+## Best project
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark)](https://github.com/br3nds0n/compass-lisa)
 
