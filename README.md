@@ -83,13 +83,7 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
  
- <!-- 🐍snake height="200em" -->
- 
- ## ✨ Contributions in the last year 
- 
- <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
-
-  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="yoda">
+   <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="yoda">
  
 ## 🎖 Best projects
  
@@ -99,4 +93,12 @@
    <a href="https://github.com/br3nds0n/Deep-web-Group">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=Deep-web-Group&theme=dark"/>
 </div>
+ 
+ <!-- 🐍snake height="200em" -->
+ 
+ ## ✨ Contributions in the last year 
+ 
+ <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+
+
 
