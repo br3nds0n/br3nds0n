@@ -95,6 +95,7 @@
  <div align="center">
   <a href="https://github.com/br3nds0n/compass-lisa">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=Deep-web-Group&theme=dark"/>      
+   <a href="https://github.com/br3nds0n/Deep-web-Group">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=Deep-web-Group&theme=dark"/>
 </div>
 
