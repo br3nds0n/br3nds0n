@@ -87,5 +87,5 @@
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa)](https://github.com/br3nds0n/compass-lisa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark)](https://github.com/br3nds0n/compass-lisa)
 
