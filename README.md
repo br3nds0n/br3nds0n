@@ -66,7 +66,7 @@
  
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
   
-  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="200" align="right" alt="yoda">
+  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="200" align="right" alt="medalorian">
  
 
 <!--    📫to me    -->
@@ -83,7 +83,16 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
  
-   <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="yoda">
+ 
+ <!-- 🐍snake height="200em" -->
+ 
+ ## ✨ Contributions in the last year 
+ 
+ <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
+ 
+<!-- 🎖 Best projects -->
+ 
+<img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="luke">
  
 ## 🎖 Best projects
  
@@ -93,12 +102,4 @@
    <a href="https://github.com/br3nds0n/Deep-web-Group">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=Deep-web-Group&theme=dark"/>
 </div>
- 
- <!-- 🐍snake height="200em" -->
- 
- ## ✨ Contributions in the last year 
- 
- <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
-
-
 
