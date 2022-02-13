@@ -1,4 +1,4 @@
-<!--    👋🏽Welcome    -->
+<!--   👋🏽Welcome   -->
 
  <h2> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="28"> </h2>
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
@@ -26,9 +26,7 @@
  
 #### ⚠ *Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.*
  
-
- 
-<!--    🚀skills    -->
+<!--   🚀skills   -->
  
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
  
@@ -43,14 +41,10 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Csharp" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
- </p>
- 
+  </p>
  <br/>
 
-   
- 
- <!--    🛠tools    -->
+ <!--   🛠tools   -->
  
  > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
 
@@ -71,7 +65,7 @@
  <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
   
 
-<!--    📫to me    -->
+<!--   📫to me   -->
 
 ## 📫 How to reach me
 
@@ -85,14 +79,13 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
  
- 
- <!-- 🐍snake height="200em" -->
+ <!--   🐍snake   -->
  
  ## ✨ Contributions in the last year 
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
-<!-- 🎖 Best projects -->
+<!--   🎖 Best projects   -->
  
 <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="luke">
  
@@ -104,4 +97,3 @@
    <a href="https://github.com/br3nds0n/Deep-web-Group">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=Deep-web-Group&theme=dark"/>
 </div>
-
