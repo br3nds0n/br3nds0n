@@ -90,7 +90,7 @@
 
   <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="100" align="left" alt="yoda">
  
-## Best projects
+## 🎖 Best projects
  
  <div align="center">
   <a href="https://github.com/br3nds0n/compass-lisa">
