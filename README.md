@@ -87,9 +87,9 @@
  
 <!--   🎖 Best projects   -->
  
-<img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="left" alt="luke">
- 
 ## 🎖 Best projects
+ 
+ <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="100" align="left" alt="luke">
  
  <div align="center">
   <a href="https://github.com/br3nds0n/compass-lisa">
