@@ -3,13 +3,13 @@
  <h2> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="28"> </h2>
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
-<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
-
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau** 
 - 💻 Node.js Development Intern | **CompassoUol** 
 - 💚 Padawan Node.js!
 - 💭 **`#dreambigger🚀🧡`**
 - 🎖 Best Projects [[click here]](#-contributions-in-the-last-year)
+
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
 <!--   📊stats   -->
 
