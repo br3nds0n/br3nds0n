@@ -9,7 +9,6 @@
 - 💭 **`#dreambigger🚀🧡`**
 - 🎖 Best Projects [[click here]](#-contributions-in-the-last-year)
 
-
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
 <!--   📊stats   -->
@@ -22,8 +21,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/>      
 </div>
-  
- 
+
 #### ⚠ *Nota: Principais linguagens usadas, são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.*
  
 <!--   🚀skills   -->
@@ -33,7 +31,6 @@
 > <img align="center" alt="languages" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899805228793208852/programador.png"> languages 
 
  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian"> 
- 
  <p>
  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
@@ -47,7 +44,7 @@
  <!--   🛠tools   -->
  
  > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
-
+ 
  <p>
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
@@ -74,7 +71,7 @@
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812069757583440/instagram.png"/></a>
   
    <a href="https://www.linkedin.com/in/brendson" alt="Linkedin">
-  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                     
+  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                  
   <a href="mailto:brendson.net@gmail.com" alt="Gmail">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
 </p>
@@ -91,7 +88,7 @@
  
 ## 🎖 Best projects
  
- <div align="center">
+<div align="center">
   <a href="https://github.com/br3nds0n/compass-lisa">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
    <a href="https://github.com/br3nds0n/Deep-web-Group">
