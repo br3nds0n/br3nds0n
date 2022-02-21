@@ -29,8 +29,7 @@
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
  
 > <img align="center" alt="languages" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899805228793208852/programador.png"> languages 
-
- <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian"> 
+ 
  <p>
  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
@@ -51,14 +50,15 @@
   <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
  </p>
+ <br/>
  
-<!-- <br/>
+  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
-    🌀frameworks    
+  <!--   🛠framework   -->
  
   > <img align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
  
- <p><img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"><p/> -->
+ <p><img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"><p/>
   
 
 <!--   📫to me   -->
