@@ -4,7 +4,7 @@
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau** 
-- 💻 Node.js Development Intern | **CompassoUol** 
+- 💻 Node.js Development 
 - 💚 Padawan Node.js!
 - 🎖 Best Projects [[click here]](#-contributions-in-the-last-year)
 
