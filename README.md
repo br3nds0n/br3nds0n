@@ -57,7 +57,10 @@
  
   > <img align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
  
- <p><img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"><p/>
+ <p>
+  <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <p/>
   
 
 <!--   📫to me   -->
