@@ -89,8 +89,8 @@
  
 ## 🎖 Best projects
  
-<div align="center">
- <p align="left">Back-end</p>
+<div>
+ <p>Back-end</p>
   <a href="https://github.com/br3nds0n/compass-lisa">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
    <a href="https://github.com/br3nds0n/Deep-web-Group">
