@@ -18,7 +18,7 @@
   <a href="https://github.com/br3nds0n">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&langs_count=7&theme=dark"/> 
-   <h4 align="left">⚠Obs: Top languages used are just a metric of the languages my public code consists of and do not reflect experience or skill level.</h4>
+   <h4 align="left">⚠Note: Top languages used are just a metric of the languages my public code consists of and do not reflect experience or skill level.</h4>
 </div>
  
 <!--   🚀skills   -->
