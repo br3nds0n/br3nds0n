@@ -21,7 +21,7 @@
    <h5 align="left">⚠Note: Top languages used are just a metric of the languages my public code consists of and do not reflect experience or skill level.</h5>
 </div>
  
-<!--   🚀skills   -->
+<!--   🚀skills       -->
  
 ## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
  
