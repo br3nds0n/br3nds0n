@@ -46,10 +46,10 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="docker" height="60" width="42" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="docker" height="48" width="48" src="https://user-images.githubusercontent.com/82064724/162223800-815f68e7-7a0d-4050-9a72-c4faad783226.png">
  </p>
  <br/>
- 
+
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
   <!--   🛠framework   -->
