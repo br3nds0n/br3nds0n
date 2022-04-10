@@ -101,6 +101,8 @@
    
   * <h4>Front-end</h4> 
  <div>
+  <a href="https://github.com/br3nds0n/br3nds0n.github.io">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=br3nds0n.github.io&theme=dark"/>
   <a href="https://github.com/br3nds0n/task-list-react">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=task-list-react&theme=dark"/>
 </div>
