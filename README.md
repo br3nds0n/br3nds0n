@@ -23,9 +23,9 @@
  
 <!--   🚀skills       -->
  
-## <img align="center" alt="rocket" height="25" width="25" src="https://cdn.discordapp.com/attachments/696749484012601344/899811382114013215/startup.png"> Skills 
+## 🚀 Skills 
  
-> <img align="center" alt="languages" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899805228793208852/programador.png"> languages 
+> ⚙ languages 
  
  <p>
  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -39,7 +39,7 @@
 
  <!--   🛠tools   -->
  
- > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
+ > 🛠 My tools
  
  <p>
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -52,7 +52,7 @@
  
   <!--   databases   -->
  
-  > <img align="center" alt="database" height="20" width="20" src="https://user-images.githubusercontent.com/82064724/162756890-40a63c08-9e10-4005-b46e-82cf0c0e5b07.png">  Databases
+  > 🛢 Databases
 
  <p>
  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
