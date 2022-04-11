@@ -44,21 +44,20 @@
  <p>
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="docker" height="48" width="48" src="https://user-images.githubusercontent.com/82064724/162223800-815f68e7-7a0d-4050-9a72-c4faad783226.png">
  </p>
  <br/>
 
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
-  <!--   🛠framework   -->
+  <!--   databases   -->
  
-  > <img align="center" alt="framework" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899728257849630730/framework.png">  Frameworks
- 
+  > <img align="center" alt="database" height="20" width="20" src="https://user-images.githubusercontent.com/82064724/162756890-40a63c08-9e10-4005-b46e-82cf0c0e5b07.png">  Databases
+
  <p>
-  <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
  <p/>
   
 
