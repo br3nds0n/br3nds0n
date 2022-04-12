@@ -82,7 +82,7 @@
   <a href="https://github.com/br3nds0n/task-list-react">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=task-list-react&theme=dark"/>
 </div>
-  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="right" alt="luke">
+  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="80" align="right" alt="luke">
 
    <br><br><br>
 
