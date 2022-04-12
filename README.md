@@ -63,20 +63,7 @@
  <p/>
   
 
-<!--   📫to me   -->
 
-## 📫 How to reach me
-
-<p align="left">
-   <a href="https://instagram.com/breendson/" alt="Instagram">
-  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812069757583440/instagram.png"/></a>
-  
-   <a href="https://www.linkedin.com/in/brendson" alt="Linkedin">
-  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                  
-  <a href="mailto:brendson.net@gmail.com" alt="Gmail">
-  <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899813317315555368/gmail.png" /></a> 
-</p>
- 
  <!--   🐍snake   -->
  
  ##  🗓️ Contributions in the last year 
