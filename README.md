@@ -62,7 +62,28 @@
   <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
  <p/>
   
+ 
+ ## 🏆 Best projects
 
+ * <h4>🥇 Back-end</h4> 
+<div>
+  <a href="https://github.com/br3nds0n/compass-lisa">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
+   <a href="https://github.com/br3nds0n/compasslisa2.0">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compasslisa2.0&theme=dark"/>
+</div>
+   
+   
+   
+  * <h4>🥈 Front-end</h4> 
+ <div>
+  <a href="https://github.com/br3nds0n/br3nds0n.github.io">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=br3nds0n.github.io&theme=dark"/>
+  <a href="https://github.com/br3nds0n/task-list-react">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=task-list-react&theme=dark"/>
+</div>
+  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="right" alt="luke">
+#
 
  <!--   🐍snake   -->
  
@@ -73,26 +94,4 @@
  #
 <!--   🎖 Best projects   -->
 
- 
- 
-## 🏆 Best projects
 
- * <h4>🥇 Back-end</h4> 
-<div>
-  <a href="https://github.com/br3nds0n/compass-lisa">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
-   <a href="https://github.com/br3nds0n/compasslisa2.0">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compasslisa2.0&theme=dark"/>
-</div>
-   
-   <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="right" alt="luke">
-   
-  * <h4>🥈 Front-end</h4> 
- <div>
-  <a href="https://github.com/br3nds0n/br3nds0n.github.io">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=br3nds0n.github.io&theme=dark"/>
-  <a href="https://github.com/br3nds0n/task-list-react">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=task-list-react&theme=dark"/>
-</div>
-  
-#
