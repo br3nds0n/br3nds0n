@@ -1,6 +1,6 @@
 <!--   👋🏽Welcome    -->
 
- <h2 align="center"><img width="50" align="left" src="https://user-images.githubusercontent.com/82064724/162990578-e26f5e9f-18f3-4b1c-a3f4-79e9cc153148.png"> Welcome to Brendson Victor's profile! May the Force be with you! </h2>
+ <h2 align="center"><img width="50" align="left" src="https://user-images.githubusercontent.com/82064724/162990578-e26f5e9f-18f3-4b1c-a3f4-79e9cc153148.png"> Welcome to Brendson Victor's profile! May the Force be with you! <img width="50" align="right" src="https://user-images.githubusercontent.com/82064724/162991666-dfe18768-9555-46ae-b5d7-002cde132ad6.png"> </h2>
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
 - 🌎 I'm from Recife, PE - Brasil
@@ -8,6 +8,7 @@
 - 🌐 Visit my [website](https://br3nds0n.github.io/)
 - 💻 Software Developer
 - 🏆 Best Projects [[click here]](#-best-projects)
+
 
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
