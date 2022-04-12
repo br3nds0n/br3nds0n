@@ -1,6 +1,6 @@
 <!--   👋🏽Welcome    -->
 
- <h2 align="center"> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="28"> </h2>
+ <h2 align="center"><img width="50" align="left" src="https://user-images.githubusercontent.com/82064724/162990578-e26f5e9f-18f3-4b1c-a3f4-79e9cc153148.png"> Welcome to Brendson Victor's profile! May the Force be with you! <img src="https://user-images.githubusercontent.com/82064724/153726963-eee167fa-015a-476b-8f46-0923708d5307.png" width="28"> </h2>
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
 
 - 🌎 I'm from Recife, PE - Brasil
