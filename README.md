@@ -5,8 +5,9 @@
 
 - 🌎 I'm from Recife, PE - Brasil
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau** 
+- 🌐 Visit my [website](https://br3nds0n.github.io/)
 - 💻 Software Developer
-- 🎖 Best Projects [[click here]](#-contributions-in-the-last-year)
+- 🎖  Best Projects [[click here]](#-contributions-in-the-last-year)
 
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
