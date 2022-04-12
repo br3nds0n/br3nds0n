@@ -7,7 +7,7 @@
 - 👨🏽‍💻 Systems Analysis and Development Student | **Uninassau** 
 - 🌐 Visit my [website](https://br3nds0n.github.io/)
 - 💻 Software Developer
-- 🎖  Best Projects [[click here]](#-contributions-in-the-last-year)
+- 🏆 Best Projects [[click here]](#-contributions-in-the-last-year)
 
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
@@ -88,9 +88,9 @@
 
  
  
-## 🎖 Best projects
+## 🏆 Best projects
 
- * <h4>Back-end</h4> 
+ * <h4>🥇 Back-end</h4> 
 <div>
   <a href="https://github.com/br3nds0n/compass-lisa">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
@@ -100,7 +100,7 @@
    
    <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="90" align="right" alt="luke">
    
-  * <h4>Front-end</h4> 
+  * <h4>🥈 Front-end</h4> 
  <div>
   <a href="https://github.com/br3nds0n/br3nds0n.github.io">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=br3nds0n.github.io&theme=dark"/>
