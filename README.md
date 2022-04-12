@@ -12,6 +12,7 @@
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
 
 <!--   📊stats   -->
+<br>
 
 ## 📊 Github Stats
 - <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
@@ -24,6 +25,7 @@
 </div>
  
 <!--   🚀skills       -->
+ <br>
  
 ## 🚀 Skills 
  
