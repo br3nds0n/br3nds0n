@@ -67,6 +67,8 @@
   
  <br>
  
+ <!--   🎖 Best projects   -->
+ 
  ## 🏆 Best projects
 
  * <h4>🥇 Back-end</h4> 
@@ -76,8 +78,6 @@
    <a href="https://github.com/br3nds0n/compasslisa2.0">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compasslisa2.0&theme=dark"/>
 </div>
-   
-   
    
   * <h4>🥈 Front-end</h4> 
  <div>
@@ -97,6 +97,3 @@
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
  
  #
-<!--   🎖 Best projects   -->
-
-
