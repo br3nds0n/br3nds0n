@@ -51,7 +51,6 @@
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
   <!--   databases   -->
- 
   > 🛢 Databases
 
  <p>
