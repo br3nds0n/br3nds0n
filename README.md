@@ -48,7 +48,7 @@
  
   <!--   databases   -->
   * 🛢 Databases
-     * <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+     * <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   
  <br>
  
