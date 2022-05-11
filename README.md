@@ -28,13 +28,13 @@
 
 <!--   💬 languages   -->
 *  💬 languages 
-   * <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
+   * <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"> <img align="center" alt="java" height="42" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  
  </br>
  
  <!--   🛠tools   -->
  * 🛠 My tools
-    * <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="git" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png">
+    * <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"> <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 
  </br>
  
