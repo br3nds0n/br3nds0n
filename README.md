@@ -25,25 +25,30 @@
  <br>
  
 ## 🚀 Skills 
+
+<!--   💬 languages   -->
+*  💬 languages 
+   * <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
  
-* ⚙ languages 
-  * <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
+ </br>
  
- <br/>
  <!--   🛠tools   -->
- <br>
- 
  * 🛠 My tools
-    * <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="docker" height="48" width="48" src="https://user-images.githubusercontent.com/82064724/162223800-815f68e7-7a0d-4050-9a72-c4faad783226.png">
+    * <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> 
  
- <br/>
+ </br>
+ 
+  <!--   ⚙ DevOps   -->
+ * ⚙  DevOps
+    * <img align="center" alt="docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
 
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
+ 
+ </br>
  
   <!--   databases   -->
   * 🛢 Databases
      * <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
- 
   
  <br>
  
