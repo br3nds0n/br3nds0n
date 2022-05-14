@@ -36,7 +36,7 @@
  <!--   🛠tools   -->
  🛠 My tools
     
-   * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"> <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+   * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <a href="https://git-scm.com/"><img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></a> <a href="https://expressjs.com/pt-br/"><img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"></a> <a href="https://start.spring.io/"><img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></a>
 
  </br>
  
