@@ -27,28 +27,32 @@
 ## 🚀 Skills 
 
 <!--   💬 languages   -->
-*  💬 languages 
+💬 languages 
+ 
    * <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"> <img align="center" alt="java" height="42" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  
  </br>
  
  <!--   🛠tools   -->
- * 🛠 My tools
-    * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"> <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+ 🛠 My tools
+    
+   * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> <img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"> <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 
  </br>
  
   <!--   ⚙ DevOps   -->
- * ⚙  DevOps
-    * <img align="center" alt="docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
+⚙  DevOps
+
+   * <img align="center" alt="docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
 
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
  </br>
  
   <!--   databases   -->
-  * 🛢 Databases
-     * <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+ 🛢 Databases
+ 
+   * <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   
  <br>
  
