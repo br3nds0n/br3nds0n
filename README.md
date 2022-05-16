@@ -79,7 +79,6 @@
    <br><br>
 
  <!--   🐍snake   -->
- 
  ##  🗓️ Contributions in the last year 
  
  <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"> </p>
