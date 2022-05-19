@@ -8,7 +8,7 @@
 - 💻 Software Developer
 - 🏆 Best Projects [[click here]](#-best-projects)
 
-<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="center" alt="r2d2">
+<!--<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="center" alt="r2d2">-->
 
 <!--   📊stats   -->
 ## 📊 Github Stats
@@ -45,7 +45,7 @@
 
    * <a href="https://www.docker.com/"><img align="center" alt="docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></a> <a href="https://id.heroku.com/login"><img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg"></a>
 
-  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
+  <!--<img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">-->
  
  </br>
  
@@ -74,7 +74,6 @@
   <a href="https://github.com/br3nds0n/task-list-react">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=task-list-react&theme=dark"/>
 </div>
-  <img src="https://64.media.tumblr.com/tumblr_m9woxzf1AK1rfjowdo1_640.gif"  width="80" align="right" alt="luke">
 
    <br><br>
 
