@@ -68,7 +68,7 @@ Featured Projects: [CompassLisa](https://github.com/br3nds0n/compasslisa2.0)
 <br/>
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/coloque-aqui-seu-username/](https://www.linkedin.com/in/brendson/) for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](https://www.linkedin.com/in/brendson/) for a more detailed description of my full work experience, education and certification.
 
  <br/>
  
