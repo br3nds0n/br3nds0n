@@ -56,6 +56,22 @@
   
  <br>
  
+## 💼 Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://user-images.githubusercontent.com/82064724/169522927-c3359b0b-c60e-4012-be97-ebd0c42d66df.jpg"/>](https://compass.uol/)
+
+**Backend Intern** \
+[**CompassUOL**](https://compass.uol/) • Internship \
+Languages & Technologies: `NodeJS`, `JavaScript`, `TypeScript` \
+Featured Projects: [CompassLisa](https://github.com/br3nds0n/compasslisa2.0)
+<br/>
+<br/>
+
+Please find me on [LinkedIn]([https://www.linkedin.com/in/coloque-aqui-seu-username/](https://www.linkedin.com/in/brendson/)) for a more detailed description of my full work experience, education and certification.
+
+ <br/>
+ 
  <!--   🎖 Best projects   -->
  ## 🏆 Best projects
 
