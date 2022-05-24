@@ -76,10 +76,10 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/brendson/) for a more d
 
  * <h4>🥇 Back-end</h4> 
 <div>
-  <a href="https://github.com/br3nds0n/compass-lisa">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compass-lisa&theme=dark"/>
-   <a href="https://github.com/br3nds0n/compasslisa2.0">
+  <a href="https://github.com/br3nds0n/compasslisa2.0">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compasslisa2.0&theme=dark"/>
+   <a href="https://github.com/br3nds0n/people-management-system">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=people-management-system&theme=dark"/>
 </div>
    
   * <h4>🥈 Front-end</h4> 
