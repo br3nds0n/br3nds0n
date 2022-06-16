@@ -8,7 +8,8 @@
 - 💻 Software Developer
 - 🏆 Best Projects [[click here]](#-best-projects)
 
-<!--<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="center" alt="r2d2">-
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
+
 <!--   📊stats   -->
 ## 📊 Github Stats
 - <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
@@ -44,7 +45,7 @@
 
    * <a href="https://www.docker.com/"><img align="center" alt="docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></a> <a href="https://id.heroku.com/login"><img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg"></a>
 
-  <!--<img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">-->
+  <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif"  width="210" align="right" alt="medalorian">
  
  </br>
  
