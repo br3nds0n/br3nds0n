@@ -59,7 +59,7 @@
  <!--   🎖 Best projects   -->
  ## 🏆 Best projects
 
- * <h4>🥇 Back-end</h4> 
+ <h4>🥇 Back-end</h4> 
 <div>
   <a href="https://github.com/br3nds0n/compasslisa2.0">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=compasslisa2.0&theme=dark"/>
@@ -67,7 +67,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=people-management-system&theme=dark"/>
 </div>
    
-  * <h4>🥈 Front-end</h4> 
+  <h4>🥈 Front-end</h4> 
  <div>
   <a href="https://github.com/br3nds0n/br3nds0n.github.io">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=br3nds0n&repo=br3nds0n.github.io&theme=dark"/>
