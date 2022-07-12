@@ -53,8 +53,8 @@
   <!--   databases   -->
  🛢 Databases
  
-   * <a href="https://www.mysql.com/"><img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></a> <a href="https://www.postgresql.org/"><img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a> <a href="https://www.mongodb.com/pt-br"><img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></a>
-  
+   * <a href="https://www.mysql.com/"><img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></a> <a href="https://www.postgresql.org/"><img align="center" alt="postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a> <a href="https://www.mongodb.com/pt-br"><img align="center" alt="mongodb" height="47" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></a> <a href="https://aws.amazon.com/pt/dynamodb/?trk=3e4c2258-4f21-4854-9de7-2f6da2ef0989&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Database|DynamoDB|BR|PT|Text&s_kwcid=AL!4422!3!589951433441!e!!g!!dynamodb&ef_id=CjwKCAjwt7SWBhAnEiwAx8ZLasGrVZLMtbt73CLsdEK26itdDduq58RhA-beWL5hRAX81C54uQK6PxoCYT8QAvD_BwE:G:s&s_kwcid=AL!4422!3!589951433441!e!!g!!dynamodb#"><img align="center" alt="dynamodb 230" height="40" width="40" src="https://user-images.githubusercontent.com/82064724/178483405-64de4d09-328d-4f21-9e2f-14e8ecb19440.png"></a>
+
  <br>
  
  <!--   🎖 Best projects   -->
