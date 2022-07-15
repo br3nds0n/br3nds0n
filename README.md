@@ -44,7 +44,10 @@
  🔧  FrameWorks
 
  * <a href="https://expressjs.com/pt-br/"><img align="center" alt="express" height="35" width="35" src="https://user-images.githubusercontent.com/82064724/167760431-bf3c8024-49a0-441a-a4b5-97fc48967b49.png"></a> <a href="https://start.spring.io/"><img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></a><a href="https://www.gnu.org/software/bash/"><img align="center" alt="bash" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
-    
+ 
+ 
+ </br>
+ 
   <!--   ⚙ DevOps   -->
 ⚙  DevOps
 
