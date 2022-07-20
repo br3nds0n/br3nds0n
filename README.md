@@ -36,7 +36,7 @@
  <!--   🛠tools   -->
  🛠 My tools
     
-   * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <a href="https://git-scm.com/"><img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></a><a href="https://vuejs.org/"><img align="center" alt="vue" height="40" width="40" src="https://user-images.githubusercontent.com/82064724/178270754-43c8700d-29ef-4911-b41f-3eb0492a0093.png"></a><a href="https://bitbucket.org/"><img align="center" alt="bit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"></a>
+   * <a href="https://code.visualstudio.com/"><img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> <a href="https://git-scm.com/"><img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></a><a href="https://vuejs.org/"><img align="center" alt="vue" height="40" width="40" src="https://user-images.githubusercontent.com/82064724/178270754-43c8700d-29ef-4911-b41f-3eb0492a0093.png"></a><a href="https://bitbucket.org/"><img align="center" alt="bit" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"></a>
 
  </br>
 
