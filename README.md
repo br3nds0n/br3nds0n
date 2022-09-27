@@ -80,10 +80,10 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <!--   🐍snake   -->
-<h2> 🗓️ Contributions in the last year </h2>
+<h3> 🗓️ Contributions in the last year </h3>
 
 <p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"></p>
  
