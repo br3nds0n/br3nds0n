@@ -18,7 +18,6 @@
 <div align="center">
   <img height="152em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=br3nds0n&theme=nord_dark"/>
   <img height="152em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=br3nds0n&hide=Html&theme=nord_dark"/>
-  <img height="152em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=br3nds0n&theme=nord_dark"/>
 </div>
 
 <br>
