@@ -43,7 +43,7 @@
     
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,bash,powershell" />
   </a>
 </p>
 
