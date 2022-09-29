@@ -31,7 +31,8 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,php" />
   </a>
 </p>
 
