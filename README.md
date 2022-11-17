@@ -1,14 +1,14 @@
 <!--   👋🏽Welcome    -->
 <h2>Welcome to Brendson Victor's profile! 👨🏽‍💻 </h2>
 
-<img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273">
+<img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273" />
 
 -   🌎 I'm from Recife, PE - Brasil
 -   👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
 -   💻 Full-Stack _Java ☕_ Developer at [blue technology](https://www.bluetechnology.com.br/)
 -   🌐 Visit my [website](https://br3nds0n.github.io/)
 
-<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2">
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2" />
 
 <!--   📊stats   -->
 <h2> 📊 Github Stats </h2>
@@ -17,7 +17,7 @@
 
 <div align="center">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&hide=html,css&layout=compact&theme=dark" />
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&hide=html,css,&layout=compact&theme=dark" />
 </div>
 
 <br>
