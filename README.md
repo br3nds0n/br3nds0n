@@ -55,7 +55,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,maven,vue,express" />
+    <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vue,express" />
   </a>
 </p>
  
