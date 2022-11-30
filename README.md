@@ -35,6 +35,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,php" />
   </a>
 </p>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
 </br>
  
@@ -56,6 +61,11 @@
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vue,expressjs" />
+  </a>
+</p>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </p>
  
