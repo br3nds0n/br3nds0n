@@ -60,12 +60,12 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vue,expressjs" />
+    <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vue,react" />
   </a>
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=expressjs,bootstrap" />
   </a>
 </p>
  
