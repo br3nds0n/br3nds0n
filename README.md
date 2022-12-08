@@ -17,7 +17,7 @@
 
 <div align="center">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&hide=html,css,&layout=compact&theme=dark" />
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&hide=html,css,sass&layout=compact&theme=dark" />
 </div>
 
 <br>
@@ -37,7 +37,7 @@
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass" />
   </a>
 </p>
 
