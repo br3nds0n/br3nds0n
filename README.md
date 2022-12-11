@@ -65,7 +65,7 @@
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=expressjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=next,expressjs,bootstrap" />
   </a>
 </p>
  
