@@ -32,7 +32,7 @@
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts,php" />
   </a>
 </p>
 <p>
@@ -60,7 +60,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vue,react" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,maven,gradle,vue,react" />
   </a>
 </p>
 <p>
