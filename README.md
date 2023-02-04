@@ -31,7 +31,7 @@
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts" />
   </a>
 </p>
 <p>
@@ -59,12 +59,12 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,maven,gradle,vue,react" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,vue,react,next" />
   </a>
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=next,expressjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=maven,gradle,expressjs,bootstrap" />
   </a>
 </p>
  
