@@ -15,7 +15,7 @@
 -   🖥️ GitHub Profile Stats
 
 <div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=br3nds0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3nds0n&layout=compact&theme=dark&hide=html,css,scss" />
 </div>
 
