@@ -64,7 +64,7 @@
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=maven,gradle,expressjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=maven,gradle,expressjs,bootstrap,rabbitmq" />
   </a>
 </p>
  
