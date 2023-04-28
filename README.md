@@ -59,7 +59,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,vue,react,next" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,vue,angular,react" />
   </a>
 </p>
 <p>
