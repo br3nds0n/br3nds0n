@@ -36,7 +36,7 @@
 </p>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=dart,html,css,sass" />
   </a>
 </p>
 
@@ -67,7 +67,11 @@
     <img src="https://skillicons.dev/icons?i=maven,gradle,expressjs,bootstrap,rabbitmq" />
   </a>
 </p>
- 
+ <p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+</p>
 </br>
  
 <!--   ⚙ DevOps   -->
