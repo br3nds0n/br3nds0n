@@ -1,8 +1,6 @@
 <!--   👋🏽Welcome    -->
 <h2>Welcome to Brendson Victor's profile! 👨🏽‍💻 </h2>
 
-<img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273" />
-
 -   🌎 I'm from Recife, PE - Brasil
 -   👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
 -   💻 Software Developer at [blue technology](https://www.bluetechnology.com.br/)
@@ -85,8 +83,6 @@
  
 </br>
 
-<img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif" width="210" align="right" alt="medalorian">
-
 <!--   databases   -->
 🛢 Databases
  
@@ -98,9 +94,3 @@
 
 <br>
 
-<!--   🐍snake   -->
-<h3> 🗓️ Contributions in the last year </h3>
-
-<p align="center"> <img src="https://github.com/br3nds0n/br3nds0n/blob/output/github-contribution-grid-snake.svg"></p>
- 
-#
