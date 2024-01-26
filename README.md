@@ -25,18 +25,32 @@
 <!--   💬 languages   -->
 
 💬 languages
-
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts" />
-  </a>
-</p>
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=dart,html,css,sass" />
-  </a>
-</p>
+<table>
+  <tr>
+   <tr align=center>
+        <th><a href="https://github.com/br3nds0n"><img src="https://skillicons.dev/icons?i=java&theme=light" /><a></th>
+        <th><a href="https://github.com/G0nz4g4n"><img src="https://skillicons.dev/icons?i=cs" /><a></th>
+        <th><a href="https://github.com/G0nz4g4n"><img src="https://skillicons.dev/icons?i=nodejs" /><a></th>
+        <th><a href="https://github.com/G0nz4g4n"><img src="https://skillicons.dev/icons?i=js" /><a></th>
+        <th><a href="https://github.com/G0nz4g4n"><img src="https://skillicons.dev/icons?i=ts" /><a></th>
+  </tr>
+    <td align="center">
+        <a href="https://github.com/br3nds0n">Java<a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/br3nds0n">C#<a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/br3nds0n">NodeJs<a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/br3nds0n">JavaScript<a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/br3nds0n">TypeScript<a>
+    </td>
+  </tr>
+</table>
 
 </br>
  
