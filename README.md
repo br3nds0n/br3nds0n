@@ -24,8 +24,8 @@
 ## 🚀 Skills
 
 
-<img align="left" height="320px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-<table align="right" height="320px">
+<img align="left" height="152em" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
+<table align="right" height="152em">
   <tr>
     <td align="center">
       <a href="https://www.java.com/pt-BR/">
