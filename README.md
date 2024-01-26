@@ -5,7 +5,7 @@
 
 
 -   🌎 I'm from Recife, PE - Brasil
--   👨🏽‍💻 Systems Analysis and Development Student | **Uninassau**
+-   👨🏽‍💻 Systems Analysis and Development
 -   💻 Software Developer at [blue technology](https://www.bluetechnology.com.br/)
 
 <!--   📊stats   -->
