@@ -1,4 +1,4 @@
-![image](https://github.com/br3nds0n/br3nds0n/assets/82064724/1ded5188-96ee-41fc-8370-9ca2502804a0)
+
 <!--   👋🏽Welcome    -->
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2" />
 <h2>Welcome to Brendson Victor's profile! 👨🏽‍💻 </h2>
@@ -23,9 +23,9 @@
 <!--   🚀skills       -->
 ## 🚀 Skills
 
-<img align="center"  width="100%" src="https://github.com/br3nds0n/br3nds0n/assets/82064724/1e159384-625d-4ffe-b367-f80af14719f1"  alt="My Stack Section Title" />
-<img align="left" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-<table align="right" height="380px">
+
+<img align="left" height="350px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
+<table align="right" height="350px">
   <tr>
     <td align="center">
       <a href="https://www.java.com/pt-BR/">
