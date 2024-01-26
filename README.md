@@ -23,7 +23,8 @@
 <!--   🚀skills       -->
 ## 🚀 Skills
 
-<img align="left" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<img align="center" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" />
+<img align="left" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
 <table align="right" height="380px">
   <tr>
     <td align="center">
