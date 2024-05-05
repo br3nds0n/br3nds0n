@@ -141,4 +141,24 @@
       </sub>
       </a>
   </td>
+    <td align="center">
+      <a href="https://react.dev">
+      <img src="https://skillicons.dev/icons?i=react&theme=light" width="65px" alt="React"/><br/>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+      </a>
+  </td>
+    <td align="center">
+      <a href="https://reactnative.dev">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="65px" alt="React Native"/><br/>
+      <sub>
+        <b>
+          <pre>React Native</pre>
+        </b>
+      </sub>
+      </a>
+  </td>
 </table>
