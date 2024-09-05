@@ -6,7 +6,7 @@
 
 -   🌎 I'm from Recife, PE - Brasil
 -   👨🏽‍💻 Systems Analysis and Development
--   💻 Software Developer at [blue technology](https://www.bluetechnology.com.br/)
+-   💻 Software Developer
 
 <!--   📊stats   -->
 <h2> 📊 Github Stats </h2>
